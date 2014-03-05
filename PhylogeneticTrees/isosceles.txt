@@ -1,0 +1,13 @@
+# Distance matrix for phylogenetic trees
+# This data produces isosceles triangles
+
+A B 8.0
+A C 6.0
+A D 8.0
+A E 2.0
+B C 8.0
+B D 3.0
+B E 8.0
+C D 8.0
+C E 6.0
+D E 8.0

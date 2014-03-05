@@ -1,0 +1,17 @@
+# Honeybee distance matrix
+
+apis_andreniformis   apis_mellifera       0.090
+apis_andreniformis   apis_dorsata         0.103
+apis_andreniformis   apis_cerana          0.096
+apis_andreniformis   apis_florea          0.004
+apis_andreniformis   apis_koschevnikovi   0.075
+apis_mellifera       apis_dorsata         0.093
+apis_mellifera       apis_cerana          0.090
+apis_mellifera       apis_florea          0.093
+apis_mellifera       apis_koschevnikovi   0.100
+apis_dorsata         apis_cerana          0.117
+apis_dorsata         apis_florea          0.106
+apis_dorsata         apis_koschevnikovi   0.103
+apis_cerana          apis_florea          0.099
+apis_cerana          apis_koschevnikovi   0.099
+apis_florea          apis_koschevnikovi   0.078
