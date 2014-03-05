@@ -1,5 +1,5 @@
-This README file describes the upgma.py and nj.py scripts.
-
+This README file describes the upgma.py and nj.py scripts
+=========================================================
 
 Purpose:
 
